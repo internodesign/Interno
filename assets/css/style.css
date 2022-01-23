@@ -738,7 +738,7 @@ section {
   max-height: auto;
   color: black;
   font-family: lato;
-  font-weight: 700;
+  /*font-weight: 700;*/
 }
 .about-btn{
   background: #8B4513;
